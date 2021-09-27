@@ -1,0 +1,23 @@
+.team{
+    background-color: rgb(231, 221, 231);
+    margin: 20px;
+    text-align: center;
+    font-size:xx-small;
+    font-weight: 200;
+    border: 1px solid blue;
+    border-radius: 20px;
+    
+   
+}
+img{
+    border-radius: 50%;
+    margin-top: 15px;
+    height: 100px;
+    width: 100px;
+}
+.btn{
+    background-color: rgb(158, 184, 11);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+}
