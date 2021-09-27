@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+live website link:https://quizzical-jackson-b229b6.netlify.app/
+Website Name:Bike Store
+About website:
+here we can get find latest bikes in whole world!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
